@@ -1,0 +1,3 @@
+Algoritmo Ejercicio1_Dia1_GomezPedro
+	
+FinAlgoritmo
